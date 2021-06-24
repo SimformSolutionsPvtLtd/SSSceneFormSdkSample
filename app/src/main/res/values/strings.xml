@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SceneSdkSample</string>
+    <string name="app_help_message"> <![CDATA[<b>1. Find empty space</b><br/>]]> You will required to find empty space surround to you. <![CDATA[<br/><br/><b>2.Move device</b><br/>]]>Based on empty space move device then you can see white dots over phone screen and tap on it<![CDATA[<br/><br/><b>3.Its Done</b><br/>]]> Once you tapped , you can see selected object rendered at captured space, also that object can be change from below object list.</string>
+    <string name="are_you_sure_want_to_exit">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error">Error</string>
+</resources>
