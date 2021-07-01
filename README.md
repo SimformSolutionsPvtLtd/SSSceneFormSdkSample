@@ -62,7 +62,7 @@ thereof.
 ## Further Refererence:
 * [Android Scenform][developer-tutorial-url]
 
-## Find this library useful? ❤️
+## Find this Sample useful? ❤️
 Support it by joining __[stargazers]__ for this repository.⭐
 
 ## 🤝 How to Contribute
