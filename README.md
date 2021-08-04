@@ -1,7 +1,7 @@
 <a href="https://www.simform.com/"><img src="https://github.com/SimformSolutionsPvtLtd/SSToastMessage/blob/master/simformBanner.png"></a>
 # ARCore Furniture Sample
 ## Furniture Sample with Scenform SDK
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)][git-repo-url] [![Scenform Version](https://img.shields.io/badge/Sceneform%20SDK%20-v1.17.1-blue)](https://developers.google.com/sceneform) [![Kotlin Version](https://img.shields.io/badge/Kotlin-v1.3.72-blue.svg)](https://kotlinlang.org)  [![Platform](https://img.shields.io/badge/Platform-Android-green.svg?style=flat)](https://www.android.com/) [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=24)
+ [![Scenform Version](https://img.shields.io/badge/Sceneform%20SDK%20-v1.17.1-blue)](https://developers.google.com/sceneform) [![Kotlin Version](https://img.shields.io/badge/Kotlin-v1.5.21-blue.svg)](https://kotlinlang.org)  [![Platform](https://img.shields.io/badge/Platform-Android-green.svg?style=flat)](https://www.android.com/) [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=24)
 
 This is a Augmented Reality Android app which is made by using **ARcore** and **Sceneform SDK**.
 
