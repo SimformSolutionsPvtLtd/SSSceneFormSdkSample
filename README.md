@@ -73,10 +73,13 @@ Check out our __[Contributing Guide]__ for ideas on contributing.
 ## Bugs and Feedback
 For bugs, feature requests, and discussion please use __[GitHub Issues]__.
 
+## Awesome Mobile Libraries
+- Check out our other available [awesome mobile libraries](https://github.com/SimformSolutionsPvtLtd/Awesome-Mobile-Libraries)
+
 ## License
 
 ```
-Copyright 2021 Simform Solutions Pvt Ltd.
+Copyright 2022 Simform Solutions Pvt Ltd.
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
